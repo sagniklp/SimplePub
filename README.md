@@ -1,3 +1,3 @@
 <p align="center">
-![](demo.gif)
+  <img src="demo.gif">
 </p>
